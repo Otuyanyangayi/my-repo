@@ -1,0 +1,7 @@
+products
+    name
+    number_in_stock
+    product_recieved
+    buying price
+    selling price
+    
